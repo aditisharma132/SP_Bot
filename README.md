@@ -31,6 +31,10 @@ information about a scene of interest.
 First install requirements:
 `pip install -r requirements.txt`
 
+Dataset can be taken from: 
+https://github.com/sukhitashvili/violence-detection/tree/main/data
+https://drive.google.com/open?id=1qpnajiy9wa5dZStqIhFHVgy2hE_fK4fb
+
 To test the model you can either run:
 `python run.py --image-path ./data/7.jpg`
 
