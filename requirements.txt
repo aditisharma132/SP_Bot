@@ -1,0 +1,10 @@
+numpy
+requests
+matplotlib
+torch
+whatimage
+streamlit
+Pillow
+opencv-python
+pyaml
+jupyter

@@ -1,0 +1,13 @@
+model-settings:
+  prediction-threshold: 0.23  # max value of cosine similarity can be 1
+  model-name: 'ViT-B/32'
+  device: 'cpu'
+label-settings:
+  labels: # labels that can be predicted if model's confidence is more than "prediction-threshold"
+    # outdoor cases
+    - 'fire' 
+    # indoor cases
+    - 'violence'
+    - 'human presence'
+  default-label: 'Unknown' # value to return if model's confidence is less than "prediction-threshold"
+
