@@ -58,8 +58,16 @@ can find code that produces that result in `tutorial.ipynb` jupyter notebook.
 
 ### Result Images
 
-![Fire Detection ]![WhatsApp Image 2024-04-24 at 4 15 09 PM](https://github.com/aditisharma132/SP_Bot/assets/63997962/36efe872-2ff9-4fb9-91e3-0ccf8f75ff8d)
-![Human Presence]![WhatsApp Image 2024-04-24 at 4 40 14 PM](https://github.com/aditisharma132/SP_Bot/assets/63997962/c1a38acd-aa99-4452-9f7f-441c6edd7a2f)
+![WhatsApp Image 2024-04-24 at 4 15 09 PM](https://github.com/aditisharma132/SP_Bot/assets/63997962/36efe872-2ff9-4fb9-91e3-0ccf8f75ff8d)
+![WhatsApp Image 2024-04-24 at 4 40 14 PM](https://github.com/aditisharma132/SP_Bot/assets/63997962/c1a38acd-aa99-4452-9f7f-441c6edd7a2f)
+![Screenshot 2024-04-23 210344](https://github.com/aditisharma132/SP_Bot/assets/63997962/d10b07db-e497-426d-8987-1bdd91570afb)
+![Screenshot 2024-04-23 210354](https://github.com/aditisharma132/SP_Bot/assets/63997962/16b74561-a58e-4a37-986a-eaddaae5f209)
+![Screenshot 2024-04-23 210933](https://github.com/aditisharma132/SP_Bot/assets/63997962/9cb49fa5-8bae-4722-b5f5-f20f79846e18)
+
+![Screenshot 2024-04-24 163430](https://github.com/aditisharma132/SP_Bot/assets/63997962/9ff61920-65fb-4a58-b8fd-664608872b1d)
+![Screenshot 2024-04-24 163335](https://github.com/aditisharma132/SP_Bot/assets/63997962/947ee768-fe12-462b-ae0e-2c1b936da9ea)
+
+
 
 <a name="work"></a>
 
