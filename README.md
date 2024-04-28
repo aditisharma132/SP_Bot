@@ -1,19 +1,8 @@
-# Table of Contents
-
-[Introduction](#introduction)
-
-[How to Run](#howtorun)
-
-[Resutls](#results)
-
-[Further Work](#work)
-<a name="introduction"/>
-
 # Introduction
 
-This repo presents code for Deep Learning based algorithm for
-**detecting violence** in indoor or outdoor environments. The algorithm can
-detect following scenarios with high accuracy: fight, fire, car crash and even
+This repo presents code for a deep-learning-based algorithm for
+**detecting violence**, **fire** and **human presence** in indoor or outdoor environments. The algorithm can
+accurately detect the following scenarios: fight, fire, car crash, and even
 more.
 
 To detect other scenarios you have to add **descriptive text label** of a
@@ -60,24 +49,15 @@ print('Image label is: ', label)
 
 # Results
 
-Below are the resulting videos and images. I used the model to make predictions
+Below are the resulting images. I used the model to make predictions
 on each frame of the videos and print model's predictions on the left side of
 frame of saved videos. In case of images, titles are model's predictions. You
 can find code that produces that result in `tutorial.ipynb` jupyter notebook.
 
-![Result video](./results/output_fire.gif)
-
-![Result video](./results/output_fight.gif)
-
 ### Result Images
 
-![Result image](./results/3.jpg)
-![Result image](./results/9.jpg)
-![Result image](./results/2.jpg)
-![Result image](./results/4.jpg)
-![Result image](./results/10.jpg)
-![Result image](./results/7.jpg)
-![Result image](./results/0.jpg)
+![Result image]![WhatsApp Image 2024-04-24 at 4 15 09 PM](https://github.com/aditisharma132/SP_Bot/assets/63997962/36efe872-2ff9-4fb9-91e3-0ccf8f75ff8d)
+![Result image]![WhatsApp Image 2024-04-24 at 4 40 14 PM](https://github.com/aditisharma132/SP_Bot/assets/63997962/c1a38acd-aa99-4452-9f7f-441c6edd7a2f)
 
 <a name="work"></a>
 
@@ -87,5 +67,5 @@ For further enhancements like: Batch processing support for speedup, return of
 multiple suggestions, threshold fine-tuning for specific data, ect. contact me:
 
 My
-Linkedin: [Soso Sukhitashvili](https://www.linkedin.com/in/soso-sukhitashvili/)
+Linkedin: [Aditi Sharma]([https://www.linkedin.com/in/soso-sukhitashvili/](https://www.linkedin.com/in/aditi-sharma-663709202/))
 
