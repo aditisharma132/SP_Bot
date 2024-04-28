@@ -58,8 +58,8 @@ can find code that produces that result in `tutorial.ipynb` jupyter notebook.
 
 ### Result Images
 
-![Result image]![WhatsApp Image 2024-04-24 at 4 15 09 PM](https://github.com/aditisharma132/SP_Bot/assets/63997962/36efe872-2ff9-4fb9-91e3-0ccf8f75ff8d)
-![Result image]![WhatsApp Image 2024-04-24 at 4 40 14 PM](https://github.com/aditisharma132/SP_Bot/assets/63997962/c1a38acd-aa99-4452-9f7f-441c6edd7a2f)
+![Fire Detection ]![WhatsApp Image 2024-04-24 at 4 15 09 PM](https://github.com/aditisharma132/SP_Bot/assets/63997962/36efe872-2ff9-4fb9-91e3-0ccf8f75ff8d)
+![Human Presence]![WhatsApp Image 2024-04-24 at 4 40 14 PM](https://github.com/aditisharma132/SP_Bot/assets/63997962/c1a38acd-aa99-4452-9f7f-441c6edd7a2f)
 
 <a name="work"></a>
 
