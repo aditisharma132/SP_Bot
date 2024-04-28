@@ -69,5 +69,5 @@ For further enhancements like: Batch processing support for speedup, return of
 multiple suggestions, threshold fine-tuning for specific data, ect. contact me:
 
 My
-Linkedin: [Aditi Sharma]([https://www.linkedin.com/in/soso-sukhitashvili/](https://www.linkedin.com/in/aditi-sharma-663709202/))
+Linkedin: ![Aditi Sharma]!([https://www.linkedin.com/in/soso-sukhitashvili/](https://www.linkedin.com/in/aditi-sharma-663709202/))
 
